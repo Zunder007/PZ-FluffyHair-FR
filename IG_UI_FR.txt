@@ -1,6 +1,6 @@
 IGUI_FR = {
-    IGUI_Hair_OverEyeHat = "zNeMeChoisisPas",
-    IGUI_Hair_OverEyeG2Hat = "zNeMeChoisisPas",
+	IGUI_Hair_OverEyeHat = "zNeMeChoisisPas",
+	IGUI_Hair_OverEyeG2Hat = "zNeMeChoisisPas",
 	IGUI_Hair_OverEyeCurlyHat = "zNeMeChoisisPas",
 	IGUI_Hair_OverEyeCurlyG2Hat = "zNeMeChoisisPas",
 	IGUI_Hair_BobHat = "zNeMeChoisisPas",
@@ -103,4 +103,16 @@ IGUI_FR = {
 	IGUI_Hair_BraidedG3Hat = "zNeMeChoisisPas",
 	IGUI_Hair_BobG3Hat = "zNeMeChoisisPas",
 	IGUI_Hair_BobCurlyG3Hat = "zNeMeChoisisPas",
+
+	IGUI_Hair_LongBraids02Hat = "zNeMeChoisisPas",
+	IGUI_Hair_LongBraids02G2Hat = "zNeMeChoisisPas",
+	IGUI_Hair_LongBraids02G4Hat = "zNeMeChoisisPas",
+	IGUI_Hair_LongBraidsG4Hat = "zNeMeChoisisPas",
+	IGUI_Hair_LongBraidsHat = "zNeMeChoisisPas",
+	IGUI_Hair_LongBraidsG2Hat = "zNeMeChoisisPas",
+	IGUI_Hair_BraidedHat = "zNeMeChoisisPas",
+	IGUI_Hair_BraidedG2Hat = "zNeMeChoisisPas",
+	IGUI_Hair_Grungey02Hat = "zNeMeChoisisPas",
+	IGUI_Hair_Grungey02G2Hat = "zNeMeChoisisPas",
+	IGUI_Hair_PonyTailbraidedHat = "zNeMeChoisisPas",
 }
